@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: red;
+}
+.line{
+    height: 6px;
+    margin: 8px auto;
+    background-color: blue;
+    width: 100px;
+}
+img{
+    transition: transform 0.2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
